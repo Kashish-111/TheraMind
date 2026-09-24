@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 
 ---
 
-**Built with ❤️ by Khushi**
+**Built with ❤️ by KASHISH**
 
 *Empowering mental wellness through technology*
 
